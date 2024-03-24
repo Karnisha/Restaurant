@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Micro\\Restaurant_Booking\\Restaurant_Booking\\wwwroot\\images\\5c338163-9760-4eb1-8b22-5e4cfd126090_images.jfif",
+      "PackagePath": "staticwebassets\\images\\5c338163-9760-4eb1-8b22-5e4cfd126090_images.jfif"
+    },
+    {
+      "Id": "D:\\Micro\\Restaurant_Booking\\Restaurant_Booking\\wwwroot\\images\\cf5d6776-9eee-4477-a48c-968efd80c1d3_images.jfif",
+      "PackagePath": "staticwebassets\\images\\cf5d6776-9eee-4477-a48c-968efd80c1d3_images.jfif"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Restaurant_Booking.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Restaurant_Booking.props",
+      "PackagePath": "build\\Restaurant_Booking.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Restaurant_Booking.props",
+      "PackagePath": "buildMultiTargeting\\Restaurant_Booking.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Restaurant_Booking.props",
+      "PackagePath": "buildTransitive\\Restaurant_Booking.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

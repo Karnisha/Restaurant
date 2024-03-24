@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "+7xRA3KVcQpc3JESZ53d/Y/ZefV+RsA+SJWbQGuPDW4=",
+  "Source": "Restaurant_Booking",
+  "BasePath": "_content/Restaurant_Booking",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Restaurant_Booking\\wwwroot",
+      "Source": "Restaurant_Booking",
+      "ContentRoot": "D:\\Micro\\Restaurant_Booking\\Restaurant_Booking\\wwwroot\\",
+      "BasePath": "_content/Restaurant_Booking",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Micro\\Restaurant_Booking\\Restaurant_Booking\\wwwroot\\images\\5c338163-9760-4eb1-8b22-5e4cfd126090_images.jfif",
+      "SourceId": "Restaurant_Booking",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Micro\\Restaurant_Booking\\Restaurant_Booking\\wwwroot\\",
+      "BasePath": "_content/Restaurant_Booking",
+      "RelativePath": "images/5c338163-9760-4eb1-8b22-5e4cfd126090_images.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\5c338163-9760-4eb1-8b22-5e4cfd126090_images.jfif"
+    },
+    {
+      "Identity": "D:\\Micro\\Restaurant_Booking\\Restaurant_Booking\\wwwroot\\images\\cf5d6776-9eee-4477-a48c-968efd80c1d3_images.jfif",
+      "SourceId": "Restaurant_Booking",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Micro\\Restaurant_Booking\\Restaurant_Booking\\wwwroot\\",
+      "BasePath": "_content/Restaurant_Booking",
+      "RelativePath": "images/cf5d6776-9eee-4477-a48c-968efd80c1d3_images.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\cf5d6776-9eee-4477-a48c-968efd80c1d3_images.jfif"
+    }
+  ]
+}
